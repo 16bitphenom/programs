@@ -1,0 +1,10 @@
+Checkers 1.0
+Black
+b.b.b.b.
+.b.b.b.b
+b.b.b.b.
+........
+..r.....
+.r...r.r
+r.r.r.r.
+.r.r.r.r
